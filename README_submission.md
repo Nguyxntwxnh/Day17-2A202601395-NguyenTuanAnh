@@ -34,3 +34,12 @@
 
 - **E08 Recency**: Stack BLUEBIRD-42 đổi sang TypeScript/NestJS được Zep tự động cập nhật fact mới và ưu tiên sử dụng.
 - **E10 Compaction**: `ShortTermMemory` nén lịch sử cũ nhưng bảo toàn `REVIEW-DEADLINE-1600` trong `DURABLE_NOTES`.
+
+---
+
+## 4. Hình ảnh Minh chứng (Evidence Screenshots)
+
+- **Long-term Memory (E02, E03, E08, E09 PASS)**: ![Long-term](submission/long_term.png)
+- **Episodic Memory (E04, E05 PASS)**: ![Episodic](submission/episodic.png)
+- **Semantic Memory (E06, E11 PASS)**: ![Semantic](submission/semantic.png)
+- **Privacy Drill (Forget & Verify PASS)**: ![Privacy](submission/privacy.png)
